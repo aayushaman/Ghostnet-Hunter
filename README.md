@@ -12,7 +12,6 @@
 
 **MalwareArmor** is an advanced cybersecurity solution designed to detect and prevent fileless malware attacks on Windows and macOS systems. It provides robust protection, real-time monitoring, and proactive threat prevention mechanisms to safeguard your computer from stealthy malware threats.
 
-![MalwareArmor Screenshot](/images/screenshot.png)
 
 ## Key Features
 
