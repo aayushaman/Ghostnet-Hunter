@@ -1,16 +1,8 @@
-# MalwareArmor
+# Ghostnet-Hunter
 
-## Table of Contents
+## About Ghostnet-Hunter
 
-- [About MalwareArmor](#about-malwarearmor)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-
-
-## About MalwareArmor
-
-**MalwareArmor** is an advanced cybersecurity solution designed to detect and prevent fileless malware attacks on Windows and macOS systems. It provides robust protection, real-time monitoring, and proactive threat prevention mechanisms to safeguard your computer from stealthy malware threats.
+**Ghostnet-Hunter** is an advanced cybersecurity solution designed to detect and prevent fileless malware attacks on Windows and macOS systems. It provides robust protection, real-time monitoring, and proactive threat prevention mechanisms to safeguard your computer from stealthy malware threats.
 
 
 ## Key Features
@@ -39,7 +31,7 @@
    - Users can review and manage detected threats easily.
 
 - **Automatic Quarantine and Removal:**
-   - When a threat is detected, MalwareArmor isolates it in a secure quarantine, preventing further harm.
+   - When a threat is detected, Ghostnet-Hunter isolates it in a secure quarantine, preventing further harm.
    - Users can initiate threat removal with a single click.
 
 - **Scheduled Scans:**
@@ -48,7 +40,7 @@
 
 ## Installation
 
-To install MalwareArmor, follow these steps:
+To install Ghostnet-Hunter, follow these steps:
 
 1. Clone this repository.
    
@@ -57,15 +49,15 @@ To install MalwareArmor, follow these steps:
    ```
 2. Build the Project
    ```
-   cd MalwareArmor
+   cd Ghostnet-Hunter
    make
    ```
 3. Run the Malware
    ```
-   ./malwarearmor [options]
+   ./Ghostnet-Hunter [options]
    ```
 4. Usage
    ```
-   ./malwarearmor -o outputfile.csv
+   ./Ghostnet-Hunter -o outputfile.csv
    ```
 
